@@ -4,7 +4,18 @@
 
 *Elisha Kent Kane, on the Humbold Glacier, Greenland (1854)*
 
-## About me
+
+## Academic Interests
+
+The global physical environment is a vast and complex machine composed of numerous interconnected systems capable of dramatic change over brief intervals of time. A solid understanding of the character and dynamics of this machine can explain a diversity of engaging geographical phenomena, from the aesthetically stunning views on a high Sierra Nevada mountain summit to the devastating loss of life and property resulting from landslides and floods. I am interested in designing, improving, evaluating, and enjoying such explanations.
+
+Mechanism by which this is achieved:
+
+(1) to build a rigorous physically-based understanding of environmental processes and system dynamics
+
+(2) to reconstruct the remarkable “natural experiments” of Earth’s environmental history 
+
+# Current Projects
 
 ## Rock Glaciers
 > ### What are they? 
