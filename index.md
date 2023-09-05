@@ -9,11 +9,11 @@
 
 The global physical environment is a vast and complex machine composed of numerous interconnected systems capable of dramatic change over brief intervals of time. A solid understanding of the character and dynamics of this machine can explain a diversity of engaging geographical phenomena, from the aesthetically stunning views on a high Sierra Nevada mountain summit to the devastating loss of life and property resulting from landslides and floods. I am interested in designing, improving, evaluating, and enjoying such explanations.
 
-Mechanism by which this is achieved:
+My graduate research at CU Boulder will emphasize geomorphological change in high altitude and high latitude regions, focusing on glaciologic problems. This choice reflects the unique and powerful contributions that this subdiscipline makes to environmental change research. Combining a physically based understanding of system dynamics with the reconstruction of “natural experiments” of Earth’s environmental history, I would like to explore questions such as: 
+a) 
+b) How are microphysical processes in ice manifested at the scale of whole glaciers or ice sheets? 
+c)
 
-(1) to build a rigorous physically-based understanding of environmental processes and system dynamics
-
-(2) to reconstruct the remarkable “natural experiments” of Earth’s environmental history 
 
 # Current Projects
 
