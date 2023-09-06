@@ -37,4 +37,6 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 ![Mt. Sopris, CO](img/Mt_Sopris.jpeg)
 
 ## Juneau Icefield 
-This project is about....
+
+
+
