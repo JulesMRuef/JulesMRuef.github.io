@@ -5,6 +5,8 @@
 *Elisha Kent Kane, on the Humbold Glacier, Greenland (1854)*
 
 
+***
+
 ## Academic Interests
 
 The global physical environment is a vast and complex machine composed of numerous interconnected systems capable of dramatic change over brief intervals of time. A solid understanding of the character and dynamics of this machine can explain a diversity of engaging geographical phenomena, from the aesthetically stunning views on a high Sierra Nevada mountain summit to the devastating loss of life and property resulting from landslides and floods. I am interested in designing, improving, evaluating, and enjoying such explanations.
@@ -14,25 +16,26 @@ a)
 b) How are microphysical processes in ice manifested at the scale of whole glaciers or ice sheets? 
 c)
 
-
+***
 # Current Projects
 
-## Rock Glaciers
+## 1. Rock Glaciers
 > ### What are they? 
 Rock glaciers consist of moving ice that is covered in rocks and debris that shield them from melting
+
 > ### Why do we care?
 
-Ø Most	frequented cryospheric objects in	mid-latitude	mountain	ranges		
+- Most	frequented cryospheric objects in	mid-latitude	mountain	ranges		
 
-Ø Important	roles	in	mountain hydrology
+- Important	roles	in	mountain hydrology
 
-Ø Important	roles	in	the	evolution	of	mountain slopes	over	the	short	and	long term
+- Important	roles	in	the	evolution	of	mountain slopes	over	the	short	and	long term
 
-Ø Past climate indicator
+- Past climate indicator
 
-Ø Primary	markers	of	mountain	permafrost	evolution
+- Primary	markers	of	mountain	permafrost	evolution
 
-Ø Represent	a	real	natural risk …
+- Represent	a	real	natural risk …
 
 ![Mt. Sopris, CO](img/Mt_Sopris.jpeg)
 
