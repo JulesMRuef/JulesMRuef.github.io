@@ -43,5 +43,10 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 
 ## Juneau Icefield 
 
+***
+
+Interesting Trends:  
+
+* [Temperature over time in Barrow, AK],(https://julesmruef.github.io/notebooks/ncei_temp_barrow.html)
 
 
