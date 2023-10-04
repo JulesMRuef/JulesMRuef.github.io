@@ -52,3 +52,7 @@ Interesting Side Projects:
 * [Woolsey Fire NDVI Analysis], (file:///Users/julianaruef/Downloads/01-modis-ndvi-woolsey-fire.html)
 
 
+
+[![DOI](https://zenodo.org/badge/687226006.svg)](https://zenodo.org/badge/latestdoi/687226006)
+
+
