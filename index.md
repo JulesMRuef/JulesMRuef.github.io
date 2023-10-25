@@ -50,6 +50,8 @@ Interesting Side Projects:
 * [Temperature over time in Barrow, AK],(https://julesmruef.github.io/notebooks/ncei_temp_barrow.html)
 * [Pajaro Valley Flooding History], (https://julesmruef.github.io/notebooks/watsonville_time_series.html)
 * [Woolsey Fire NDVI Analysis], (file:///Users/julianaruef/Downloads/01-modis-ndvi-woolsey-fire.html)
+* [Fire Analysis by State]file:///Users/julianaruef/Downloads/01-wildfire_wrt_states%20(5).html
+  
 
 
 
