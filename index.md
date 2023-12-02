@@ -41,11 +41,13 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 
 ![Mt. Sopris, CO](img/Mt_Sopris.jpeg)
 
-## Juneau Icefield 
+## 2. Juneau Icefield 
 
-***
+> ### Why do we see a winter warming trend? 
 
-Interesting Side Projects:  
+
+
+## Interesting Side Projects - Earth Science Data Analytics Course 
 
 * [Temperature over time in Barrow, AK],(https://julesmruef.github.io/notebooks/ncei_temp_barrow.html)
 * [Pajaro Valley Flooding History], (https://julesmruef.github.io/notebooks/watsonville_time_series.html)
