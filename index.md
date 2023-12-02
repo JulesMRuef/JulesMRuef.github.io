@@ -45,7 +45,7 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 
 - Why do we see a winter warming trend? 
 
-![Juneau Icefield, AK](img/Mt_Sopris.jpeg)
+![Juneau Icefield, AK](img/JIF.jpeg)
 
 ## Interesting Side Projects - Earth Science Data Analytics Course 
 
