@@ -55,8 +55,6 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 * [Fire Analysis by State]file:///Users/julianaruef/Downloads/01-wildfire_wrt_states%20(5).html
   
 
-
-
 [![DOI](https://zenodo.org/badge/687226006.svg)](https://zenodo.org/badge/latestdoi/687226006)
 
 
