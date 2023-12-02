@@ -43,7 +43,7 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 
 ## 2. Juneau Icefield 
 
-> ### Why do we see a winter warming trend? 
+- Why do we see a winter warming trend? 
 
 
 
