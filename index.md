@@ -52,7 +52,7 @@ Rock glaciers consist of moving ice that is covered in rocks and debris that shi
 * [Temperature over time in Barrow, AK],(https://julesmruef.github.io/notebooks/ncei_temp_barrow.html)
 * [Pajaro Valley Flooding History], (https://julesmruef.github.io/notebooks/watsonville_time_series.html)
 * [Woolsey Fire NDVI Analysis], (https://julesmruef.github.io/notebooks/modis-ndvi-woolsey-fire%20(1).html)
-* [Fire Analysis by State]file:///Users/julianaruef/Downloads/01-wildfire_wrt_states%20(5).html
+* [Fire Analysis by State](https://julesmruef.github.io/notebooks/wildfire_wrt_states2.html.zip)
   
 
 [![DOI](https://zenodo.org/badge/687226006.svg)](https://zenodo.org/badge/latestdoi/687226006)
